@@ -1,0 +1,2 @@
+Nome da máquina: /127.0.0.1 / IP da máquina: /127.0.0.1 / Porta usada: 49496 / Mensagem: null
+Nome da máquina: /127.0.0.1 / IP da máquina: /127.0.0.1 / Porta usada: 49496 / Mensagem: YES
